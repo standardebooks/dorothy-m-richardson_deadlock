@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-5.xhtml">
-		<ignore code="y-024">
-			<line>33</line>
-			<reason>No em dash here, not a parenthetical. Mimicking speaker's cadence.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
