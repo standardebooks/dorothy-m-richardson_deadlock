@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56925</dc:source>
 		<dc:source>https://archive.org/details/deadlock00rich</dc:source>
-		<meta property="se:production-notes">Richardson experimented with unconventional punctuation, using varying numbers of periods for ellipses and avoiding trailing punctutation in dialog phrases. For consistency and based on the author’s later-expressed intention this Standard Ebooks edition follows conventional practices.</meta>
+		<meta property="se:production-notes">Richardson experimented with unconventional punctuation, using varying numbers of periods for ellipses and avoiding trailing punctuation in dialog phrases. For consistency and based on the author’s later-expressed intention this Standard Ebooks edition follows conventional practices.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Deadlock</meta>
