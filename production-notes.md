@@ -1,0 +1,1 @@
+Richardson experimented with unconventional punctuation, using varying numbers of periods for ellipses and avoiding trailing punctuation in dialog phrases. For consistency and based on the author’s later-expressed intention this Standard Ebooks edition follows conventional practices.
