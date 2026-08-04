@@ -43,7 +43,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:abstract>An independent woman living in a London boarding house at the dawn of the twentieth century becomes involved with a fellow lodger from Russia.</dc:abstract>
+		<meta property="schema:abstract">An independent woman living in a London boarding house at the dawn of the twentieth century becomes involved with a fellow lodger from Russia.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Deadlock&lt;/i&gt; is the sixth “chapter volume” of &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering semi-autobiographical series, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;Michael Shatov, a young Russian intellectual exploring England, arrives at the boarding house that has long hosted series protagonist Miriam Henderson. He engages Miriam as a tutor of English, and the two quickly recognize each other as kindred spirits, talking late into the night about philosophy and literature. Michael pushes Miriam to translate French works, a major step on her journey to becoming a writer.&lt;/p&gt;
